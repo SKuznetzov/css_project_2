@@ -59,7 +59,9 @@ body {
     text-decoration: none;
     margin-right: 43px;
 }
-.active {
+
+.active a {
+        color: #010101;
 }
 .logo {
 }
