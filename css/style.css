@@ -38,9 +38,16 @@ body {
 .container {
     width: 1200px;
     padding: 0 15px;
+    margin: 0 auto;
     border: 1px solid red;
 }
 .menu {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .menu__item {
 }
