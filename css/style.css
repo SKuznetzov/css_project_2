@@ -69,6 +69,7 @@ body {
     margin: 0 16px;
 }
 .header__content {
+    text-align: center;
 }
 .header__title {
     font-family: "HelveticaNeueLTProLt", sans-serif;
@@ -80,6 +81,14 @@ body {
     margin: 207px auto 4px;
 }
 .header__text {
+    font-family: "Merriweather-LightItalic",serif; 
+    font-size: 16px;
+    line-height: 17px;
+    font-weight: 300;
+    font-style: italic;
+    letter-spacing: 0.03em;
+    color: #898888;
+    margin: 0 auto 43px;
 }
 .header__button {
 }
