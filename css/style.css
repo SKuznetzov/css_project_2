@@ -49,7 +49,7 @@ body {
     justify-content: center;
     align-items: center;
 }
-.menu__item {
+.menu__item a {
     font-family: "Roboto-Regular",sans-serif;
     font-size: 13px;
     line-height: 17px;
