@@ -25,3 +25,24 @@
     font-family: "Roboto-Regular";
     src: url(../fonts/Roboto-Regular.ttf) format("truetype"), /* IE8+, знак ? позволяет обойти баг в обработчике значения src */
 }
+
+.header {
+}
+.container {
+}
+.menu {
+}
+.menu__item {
+}
+.active {
+}
+.logo {
+}
+.header__content {
+}
+.header__title {
+}
+.header__text {
+}
+.header__button {
+}
