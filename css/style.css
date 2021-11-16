@@ -36,6 +36,9 @@ body {
 .header {
 }
 .container {
+    width: 1200px;
+    padding: 0 15px;
+    border: 1px solid red;
 }
 .menu {
 }
