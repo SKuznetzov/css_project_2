@@ -59,11 +59,14 @@ body {
     text-decoration: none;
     margin-right: 43px;
 }
-
+.menu__item:last-child a {
+    margin-right: 0;
+}
 .active a {
         color: #010101;
 }
 .logo {
+    margin: 0 16px;
 }
 .header__content {
 }
