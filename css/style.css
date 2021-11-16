@@ -50,6 +50,14 @@ body {
     align-items: center;
 }
 .menu__item {
+    font-family: "Roboto-Regular",sans-serif;
+    font-size: 13px;
+    line-height: 17px;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    color: #989696;
+    text-decoration: none;
+    margin-right: 43px;
 }
 .active {
 }
