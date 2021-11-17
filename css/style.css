@@ -118,6 +118,9 @@ body {
 .about__inner {
 }
 .about__item {
+    width: 417px;
+    height: 276px;
+    background-color: #181818;
 }
 .about__year {
     font-family: "HelveticaNeueLTProLt",sans-serif; 
