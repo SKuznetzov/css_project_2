@@ -120,6 +120,11 @@ body {
 .about__item {
 }
 .about__year {
+    font-family: "HelveticaNeueLTProLt",sans-serif; 
+    font-size: 48px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    color: #fefefe;
 }
 .about__text {
 }
