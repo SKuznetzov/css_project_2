@@ -107,6 +107,11 @@ body {
 }
 
 .about {
+    background-color: #1d1d1d;
+    height: 1129px;
+    padding-top: 128px;
+    padding-bottom: 271px;
+    background: url(../img/buildings__black_3164.png);
 }
 .container {
 }
