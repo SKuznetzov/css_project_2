@@ -127,4 +127,9 @@ body {
     color: #fefefe;
 }
 .about__text {
+    font-family: "Montserrat-Light",sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0.02em;
+    color: #b7b7b7;
 }
