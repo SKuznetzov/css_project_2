@@ -122,6 +122,7 @@ body {
     grid-template-rows: max-content max-content;
     grid-template-columns: max-content max-content;
     grid-gap:178px;
+    place-content: center center;
 }
 .about__item {
     width: 417px;
