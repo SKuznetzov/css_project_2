@@ -155,8 +155,21 @@ body {
 .block__head {
 }
 .block__title {
+    font-family: "HelveticaNeueLTProLt",sans-serif; 
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    color: #464646;
+    margin: 0;
 }
 .block__text {
+    font-family: "Merriweather-LightItalic",sans-serif;
+    font-size: 13px;
+    line-height: 26px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    color: #b3b3b3;
+    margin: 0;
 }
 .team__inner {
 }
@@ -165,8 +178,20 @@ body {
 .team__item-img {
 }
 .team__item-title {
+    font-family: "HelveticaNeueLTProLt",sans-serif; 
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    color: #464646;
+    margin: 0;
 }
 .team__item-text {
+    font-family: "HelveticaNeueLTProLt",sans-serif; 
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    color: #b3b3b3;
+    margin: 0;
 }
 .team__icon-box {
 }
@@ -174,4 +199,3 @@ body {
 }
 .icon-instagram {
 }
-/* 1238 */
