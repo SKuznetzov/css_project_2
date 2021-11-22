@@ -211,8 +211,6 @@ body {
     background-color: #181818;
     padding-bottom: 155px;
 }
-.block__head {
-}
 .inverse .block__title {
     padding-top: 176px;
     color: #ffffff;
@@ -241,8 +239,6 @@ body {
     align-items: center;
     margin: 0 auto 43px;
 }
-.icon-chart-line {
-}
 .provide__item-title {
     font-family: "HelveticaNeueLTProLt",sans-serif; 
     font-size: 26px;
@@ -260,9 +256,6 @@ body {
     color: #383838;
     margin: 0;
 }
-.icon-heart {
-}
-.icon-upload-cloud {
-}
+
 
 
