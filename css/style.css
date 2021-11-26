@@ -271,6 +271,8 @@ body {
 .contact__inner {
 }
 .contact__icon-box {
+    display: flex;
+    justify-content: center;
 }
 .contact__item {
 }
@@ -283,6 +285,10 @@ body {
 .icon-mail-alt {
 }
 .contact__form {
+    display: flex;
+    flex-direction: column;
+    max-width: 770px;
+    margin: 0 auto;
 }
 .contact__name {
 }
@@ -297,6 +303,7 @@ body {
 .footer {
 }
 .footer__text {
+    text-align: center;
 }
 
 
