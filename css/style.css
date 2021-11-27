@@ -317,17 +317,21 @@ body {
 }
 .contact__name {
     margin-bottom: 20px;
+    height: 52px;
 }
 .contact__email {
     margin-bottom: 20px;
+    height: 52px;
 }
 .contact__number {
     margin-bottom: 18px;
+    height: 52px;
 }
 .contact__textarea {
     margin-bottom: 21px;
 }
 .contact__button {
+    height: 52px;
 }
 .footer {
     padding-top: 154px;
