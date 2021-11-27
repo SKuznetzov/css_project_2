@@ -260,7 +260,8 @@ body {
 }
 .container {
 }
-.block__head {
+.contact .block__head .block__title {
+    padding-top: 95px;
 }
 .inverse {
 }
@@ -272,19 +273,38 @@ body {
 }
 .contact__icon-box {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 570px;
+    padding-top: 64px;
 }
 .contact__item {
+    text-align: center;
+    width: 130px;
+}
+.contact__item i {
+    color: #323232;
+    font-size: 21px;
 }
 .icon-phone {
 }
 .contact__text {
+    margin-bottom: 12px;
+}
+.contact__text a {
+    font-family: "HelveticaNeueLTProLt",sans-serif; 
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    color: #898888;
+    text-decoration: none;
 }
 .icon-location {
 }
 .icon-mail-alt {
 }
 .contact__form {
+    padding-top: 153px;
     display: flex;
     flex-direction: column;
     max-width: 770px;
