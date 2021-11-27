@@ -316,19 +316,30 @@ body {
     margin: 0 auto;
 }
 .contact__name {
+    margin-bottom: 20px;
 }
 .contact__email {
+    margin-bottom: 20px;
 }
 .contact__number {
+    margin-bottom: 18px;
 }
 .contact__textarea {
+    margin-bottom: 21px;
 }
 .contact__button {
 }
 .footer {
+    padding-top: 154px;
 }
 .footer__text {
+    font-family: "HelveticaNeueLTProLt",sans-serif; 
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    color: #3b3b3b;
     text-align: center;
+    margin-bottom: 29px;
 }
 
 
