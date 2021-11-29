@@ -380,5 +380,10 @@ input[type='number'] {
     margin-bottom: 29px;
 }
 
+@media screen and (max-width: 769px){
+    .container {
+        width: 768px;
+    }
+}
 
 
