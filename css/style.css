@@ -389,6 +389,12 @@ input[type='number'] {
         max-width: 300px;
         margin: 0 30px 40px;
     }
+    .contact__form {
+        padding-top: 100px;
+    }
+    .footer {
+        padding-top: 30px;
+    }
 }
 
 
