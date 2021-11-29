@@ -256,20 +256,8 @@ body {
     color: #383838;
     margin: 0;
 }
-.contact {
-}
-.container {
-}
 .contact .block__head .block__title {
     padding-top: 95px;
-}
-.inverse {
-}
-.block__title {
-}
-.block__text {
-}
-.contact__inner {
 }
 .contact__icon-box {
     display: flex;
@@ -286,8 +274,6 @@ body {
     color: #323232;
     font-size: 21px;
 }
-.icon-phone {
-}
 .contact__text {
     margin-bottom: 12px;
 }
@@ -303,10 +289,6 @@ body {
 .contact__text a:hover {
     color:#4b4b4b;
     text-decoration: underline;
-}
-.icon-location {
-}
-.icon-mail-alt {
 }
 .contact__form {
     padding-top: 153px;
@@ -391,6 +373,21 @@ input[type='number'] {
     .about__inner {
         grid-gap: 30px;
         grid-template-columns: max-content;
+    }
+    .provide {
+        padding-bottom: 100px;
+    }
+    .team .block__title,
+    .provide .block__title {
+        padding-top: 100px;
+    }
+    .provide__inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .provide__item {
+        max-width: 300px;
+        margin: 0 30px 40px;
     }
 }
 
