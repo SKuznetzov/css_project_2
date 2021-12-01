@@ -406,6 +406,12 @@ input[type='number'] {
     .menu__desktop {
         display: none;
     }
+    .menu__mobile {
+        display: flex;
+    }
+    .menu {
+        display: none;
+    }
 }
 
 
