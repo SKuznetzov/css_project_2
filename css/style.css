@@ -396,5 +396,10 @@ input[type='number'] {
         padding-top: 30px;
     }
 }
+@media screen and (max-width: 376px){
+    .container {
+        width: 375px;
+    }
+}
 
 
