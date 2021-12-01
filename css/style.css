@@ -78,7 +78,8 @@ body {
     font-weight: 400;
     letter-spacing: 0.02em;
     color: #1d1e1f;
-    margin: 207px auto 4px;
+    padding-top: 207px;
+    margin: 0px auto 4px;
 }
 .header__text {
     font-family: "Merriweather-LightItalic",serif; 
@@ -439,6 +440,10 @@ input[type='number'] {
         background-color: #000;
         position: absolute;
         top: -10px;
+    }
+    .header__title {
+        padding-top: 100px;
+        margin-bottom: 30px;
     }
 }
 
