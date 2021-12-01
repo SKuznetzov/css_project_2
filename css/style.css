@@ -59,6 +59,9 @@ body {
 .menu__item:last-child a {
     margin-right: 0;
 }
+.menu__mobile {
+    display: none;
+}
 .active a {
         color: #010101;
 }
@@ -399,6 +402,9 @@ input[type='number'] {
 @media screen and (max-width: 376px){
     .container {
         width: 375px;
+    }
+    .menu__desktop {
+        display: none;
     }
 }
 
