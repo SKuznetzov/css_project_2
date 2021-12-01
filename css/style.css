@@ -445,6 +445,26 @@ input[type='number'] {
         padding-top: 100px;
         margin-bottom: 30px;
     }
+    .header__button {
+        margin-bottom: 100px;
+    }
+    .about__item {
+        max-width: 340px;
+    }
+    .team {
+        height: auto;
+        padding-bottom: 80px;
+    }
+    .team__inner {
+        padding-top: 100px;
+        flex-wrap: wrap;
+    }
+    .team__item {
+        width: 340px;
+    }
+    .provide__inner {
+        padding-top: 100px;
+    }
 }
 
 
