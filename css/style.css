@@ -403,14 +403,42 @@ input[type='number'] {
     .container {
         width: 375px;
     }
+    .logo {
+        margin: 0 -15px;
+    }
     .menu__desktop {
         display: none;
     }
     .menu__mobile {
         display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
     .menu {
         display: none;
+    }
+    .menu__burger {
+        cursor: pointer;
+        width: 30px;
+        height: 3px;
+        background-color: #000;
+        position: relative;
+    }
+    .menu__burger:after {
+        content: '';
+        width: 30px;
+        height: 3px;
+        background-color: #000;
+        position: absolute;
+        bottom: -10px;
+    }
+    .menu__burger:before {
+        content: '';
+        width: 30px;
+        height: 3px;
+        background-color: #000;
+        position: absolute;
+        top: -10px;
     }
 }
 
