@@ -412,11 +412,22 @@ input[type='number'] {
     }
     .menu__mobile {
         display: flex;
+        flex-direction: column;
+    }
+    .menu__inner {
+        display: flex;
         justify-content: space-between;
         align-items: center;
     }
     .menu {
         display: none;
+        text-align: center;
+    }
+    .menu li {
+        padding: 10px 0;
+    }
+    .menu a {
+        margin: 0;
     }
     .menu__burger {
         cursor: pointer;
