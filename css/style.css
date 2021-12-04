@@ -467,6 +467,17 @@ input[type='number'] {
     .menu__burger span:before {
         bottom: -10px;
     }
+    .menu__burger.close span {
+        background: none;
+    }
+    .menu__burger.close span:after {
+        top: 0px;
+        transform:rotate(45deg);
+    }
+    .menu__burger.close span:before {
+        bottom: 0px;
+        transform:rotate(-45deg);
+    }
     .header__title {
         padding-top: 100px;
         margin-bottom: 30px;
