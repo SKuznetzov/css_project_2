@@ -7,6 +7,7 @@ $(document).ready(function(){
         $('nav a[href^="#"]').parent().removeClass('active');
         $(this).parent().addClass('active');
         $('.menu').toggle(500);
+        $('.menu__burger').toggleClass('close');
         return false;
     });
     $('.menu__burger').click(function(){
