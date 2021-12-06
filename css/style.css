@@ -34,7 +34,7 @@ body {
     margin: 0;
 }
 .container {
-    width: 1200px;
+    max-width: 1200px;
     padding: 0 15px;
     margin: 0 auto;
 }
@@ -368,7 +368,7 @@ input[type='number'] {
 
 @media screen and (max-width: 769px){
     .container {
-        width: 768px;
+        width: 99%;
     }
     .about {
         height: auto;
@@ -402,7 +402,7 @@ input[type='number'] {
 }
 @media screen and (max-width: 376px){
     .container {
-        width: 375px;
+        width: 99%;
     }
     .logo {
         margin: 0 -15px;
